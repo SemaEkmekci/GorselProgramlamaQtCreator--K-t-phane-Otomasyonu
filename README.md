@@ -1,6 +1,6 @@
 # GorselProgramlamaQtCreator--Kutuphane-Otomasyonu
 
-Necmettin Erbakan Üniversitesi 2.sınıf bahar dönemi Görsel Programlama dersinde Qt-Creator ile geliştirilmiştir.
+**Necmettin Erbakan Üniversitesi 2.sınıf bahar dönemi Görsel Programlama dersinde Qt-Creator ile geliştirilmiştir.**
 **-------------------------------------------------------------------------------------------------------------------------------------------------------**
 
 __Anasayfa__
