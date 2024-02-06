@@ -1,7 +1,7 @@
 # GorselProgramlamaQtCreator--Kutuphane-Otomasyonu
 
 **Necmettin Erbakan Üniversitesi 2.sınıf bahar dönemi Görsel Programlama dersinde Qt-Creator ile geliştirilmiştir.**
-**-------------------------------------------------------------------------------------------------------------------------------------------------------**
+**-------------------------------------------------------------------------------------------------------------------**
 
 __Anasayfa__
 ![1](https://github.com/SemaEkmekci/GorselProgramlamaQtCreator--Kutuphane-Otomasyonu/assets/94064744/26e871b3-79a2-4705-b715-6d99e5168a34)
