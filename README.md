@@ -1,0 +1,1 @@
+# GorselProgramlamaQtCreator--K-t-phane-Otomasyonu
